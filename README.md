@@ -47,20 +47,35 @@ Here are a few insights derived from the wrangled data:
 
 ---
 
-## 🗃️ Folder Structure
+## 📂 Repository Structure
+```
+Data-Wrangling-in-Action-Analyzing-Kindle-Books-Data/
+│
+├── datasets/                           # Raw datasets used for the project 
+│
+├── docs/                               # Project documentation details
+│   ├── kindle_data_wrangling.ipynb     
+│           
+│
+├── outputs/                            # Output
+│   ├── cleaned_dataset.csv/                         
+│   ├── visualizations/                                                
+│
+│
+├── README.md                           # Project overview and instructions
+├── LICENSE                             # License information for the repository
+├── .gitignore                          # Files and directories to be ignored by Git
+└── requirements.txt                    # Dependencies and requirements for the project
+```
 
-Kindle-Books-Data-Wrangling/
-│
-├── data/
-│ └── kindle_books_raw.csv
-│
-├── notebooks/
-│ └── kindle_data_wrangling.ipynb
-│
-├── outputs/
-│ └── cleaned_dataset.csv
-│ └── visualizations/
-│
-└── README.md
 
+## 🛡️ License
 
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **Aniket Tripathi**. I'm an aspiring Data Engineer with hands-on experience in building scalable data pipelines, automating workflows, and driving insights using big data technologies and BI tools. Strong analytical skills and a passion for optimizing data-driven decision-making.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+www.linkedin.com/in/aniket-tripathi-867638136
